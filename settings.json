@@ -8,7 +8,7 @@
   "server": {
     "ip": "kangportsmp.mcserv.world",
     "port": 25565,
-    "version": "26.3",
+    "version": "1.21.56",
     "try-creative": false
   },
   "position": {
