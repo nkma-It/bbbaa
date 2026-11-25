@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "my-server-5dd30d.play.shulkerboxes.com",
+    "ip": "kangportsmp.mcserv.world",
     "port": 25565,
     "version": "26.3",
     "try-creative": false
